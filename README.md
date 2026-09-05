@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img width="1811" height="868" alt="image" src="https://github.com/user-attachments/assets/2d8957f8-635d-40bc-aeb7-ab17e9a03423" />
-<!-- ========================================================= -->
-<!--                    NICOLLY MACHADO                        -->
-<!-- ========================================================= -->
 
-<div align="center">
 
 <img src="./nicolly-pixel.png" width="100%" alt="Nicolly Machado"/>
 
