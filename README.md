@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8aae8cbf-5180-40ed-9c00-9a419a2ba6be" />
-<div align="center">
+<img width="1811" height="868" alt="image" src="https://github.com/user-attachments/assets/2d8957f8-635d-40bc-aeb7-ab17e9a03423" />
 
-<img src="./nicolly-pixel.png" width="100%" alt="Nicolly Machado"/>
 
 <br>
 
