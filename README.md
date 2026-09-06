@@ -19,7 +19,7 @@ Tenho interesse em desenvolvimento de software e gosto de aprender, criar projet
 `HTML` `CSS` `JavaScript` `Python`
 
 ### 📫 Contato
-📷 Instagram: **[@niccooding](https://instagram.com/niccooding)**
+📷 Instagram: **[@niccoding](https://instagram.com/niccooding)**
 Building useful things and learning in public.
 
 - 👥 **1** followers · **1** following
