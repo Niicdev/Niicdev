@@ -6,9 +6,6 @@
 
 **niicdev** · Product-minded developer
 
-## About
-## 💙 Sobre mim
-
 ## 💙 Sobre mim
 
 Olá! Eu sou a **Nicolly Machado**.
