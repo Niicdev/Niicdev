@@ -9,21 +9,19 @@
 ## About
 ## 💙 Sobre mim
 
-Oii! Eu sou a **Nicolly**, também conhecida como **niicdev** 👩🏻‍💻
+## 💙 Sobre mim
 
-Sou apaixonada por tecnologia, programação e por aprender coisas novas.
+Olá! Eu sou a **Nicolly Machado**.
 
-🚀 Explorando o mundo do desenvolvimento e criando meus primeiros projetos.  
-💻 Gosto de transformar ideias em código e deixar tudo com a minha cara.  
-🚗 Também sou apaixonada por carros e Fórmula 1.  
-📚 Sempre aprendendo algo novo e evoluindo a cada projeto.
+Sou estudante e estou desenvolvendo meus conhecimentos na área de **tecnologia e programação**.  
+Tenho interesse em desenvolvimento de software e gosto de aprender, criar projetos e transformar ideias em soluções através do código.
 
-✨ *“Transformando ideias em código, um projeto de cada vez.”*
+🚀 Buscando constantemente evoluir minhas habilidades e adquirir novos conhecimentos.
 
 ### 💻 Tecnologias
 `HTML` `CSS` `JavaScript` `Python`
 
-### 🌷 Onde me encontrar
+### 📫 Contato
 📷 Instagram: **[@niccooding](https://instagram.com/niccooding)**
 Building useful things and learning in public.
 
