@@ -1,62 +1,83 @@
 <div align="center">
 
-<img src="./assets/bonequinha.jpg" width="100%" alt="Nicolly programando">
+<br>
+
+<img src="./assets/bonequinha.jpg" width="420px">
 
 <br><br>
 
-<h1>💜 Nicolly Machado</h1>
+# 💜 NICOLLY MACHADO
 
-<h3>୨୧ niicdev ୨୧</h3>
+### `niicdev`
 
-<p>💻 Desenvolvedora em construção • 🎀 Criativa • 🚗 Apaixonada por carros • 🏎️ Fã de Fórmula 1</p>
-
-<a href="https://instagram.com/niccooding">
-<img src="https://img.shields.io/badge/Instagram-@niccooding-9B59B6?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=100&section=header">
-
-</div>
-
-## 💜 Sobre mim
-
-> Oii! Eu sou a **Nicolly** 🎀  
-> Estou aprendendo programação e amo criar coisas novas.
->
-> 💻 Programação  
-> 🎨 Criatividade  
-> 🚗 Carros  
-> 🏎️ Fórmula 1  
-> ✨ Aprendendo sempre mais
-
-<div align="center">
-
-## 💻 Tecnologias
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode">
-
-<br><br>
-
-## 🎀 GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=niicdev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0615&title_color=C77DFF&icon_color=C77DFF&text_color=FFFFFF">
+<p>
+  <i>transformando ideias em código ✦</i>
+</p>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niicdev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0615&title_color=C77DFF&text_color=FFFFFF">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header">
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## ✦ sobre mim
+
+Olá! Eu sou a **Nicolly** 💜
+
+Sou uma garota apaixonada por tecnologia, criatividade e por aprender coisas novas.
+
+Atualmente estou estudando programação e construindo meu caminho como desenvolvedora.
+
+<br>
+
+`💻 coding`  
+`🎨 creativity`  
+`🚗 cars`  
+`🏎️ formula 1`
+
+</td>
+
+<td width="50%" valign="top">
+
+## ✦ atualmente
+
+🌱 Aprendendo programação
+
+💻 Criando meus primeiros projetos
+
+📚 Estudando novas tecnologias
+
+✨ Evoluindo um pouco todos os dias
+
+<br>
+
+**my goal:**  
+> criar coisas que tenham a minha cara.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ✦ tecnologias
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark">
 
 <br><br>
 
-## 🌷 Me encontre
+## ✦ vamos conversar?
 
 <a href="https://instagram.com/niccooding">
-<img src="https://img.shields.io/badge/@niccooding-9B59B6?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-@niccooding-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=120&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer">
 
 </div>
