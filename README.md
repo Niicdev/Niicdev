@@ -1,107 +1,106 @@
-## Hi there 👋
-
-<!--
-**Niicdev/Niicdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img width="1811" height="868" alt="image" src="https://github.com/user-attachments/assets/2d8957f8-635d-40bc-aeb7-ab17e9a03423" 
 <div align="center">
 
-# 💜 NICOLLY CRISTINE
+# 💜 NICOLLY MACHADO
 
-### `developer • creative • always learning`
+### `Desenvolvedora em formação • Criatividade • Tecnologia`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B57AFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Nicolly!+%F0%9F%91%8B;Bem-vindo+ao+meu+GitHub!+%F0%9F%92%9C;Transformando+ideias+em+c%C3%B3digo+%E2%9C%A8" alt="Typing SVG" />
 
-### ✦ Welcome to my little corner of GitHub ✦
+<br>
 
-> 💻 Transformando ideias em código
-> ✨ Aprendendo, criando e evoluindo um pouquinho todos os dias.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 </div>
 
 ---
 
-## 💜 SOBRE MIM
+## 💜 Sobre mim
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│  Oii! Eu sou a Nicolly 👋🏻                  │
-│                                              │
-│  💻 Apaixonada por tecnologia                │
-│  ✨ Gosto de criar coisas novas              │
-│  📚 Sempre aprendendo algo diferente         │
-│  🎯 Buscando evoluir cada vez mais           │
-│                                              │
-╰──────────────────────────────────────────────╯
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+```js
+const nicolly = {
+    username: "niicdev",
+    name: "Nicolly Machado",
+    role: "Desenvolvedora em formação",
+    currentlyLearning: [
+        "Programação",
+        "Desenvolvimento Web"
+    ],
+    interests: [
+        "Tecnologia",
+        "Carros",
+        "Criatividade"
+    ],
+    goal: "Transformar ideias em projetos incríveis ✨"
+};
 ```
 
----
+💻 Aprendendo programação e criando meus primeiros projetos.
 
-## 💻 TECNOLOGIAS
+🎨 Gosto de transformar ideias em coisas bonitas e funcionais.
 
-### ✦ Linguagens que estou usando
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python" />
-
-</p>
-
-> Adicione ou remova os ícones acima conforme as linguagens que você realmente usa.
+🚀 Sempre tentando aprender algo novo.
 
 ---
 
-## 🌷 O QUE ESTOU APRENDENDO
+## 🛠️ Tecnologias
 
 <div align="center">
 
-| 💜   | Área                         |
-| ---- | ---------------------------- |
-| `01` | Desenvolvimento              |
-| `02` | Projetos pessoais            |
-| `03` | Novas tecnologias            |
-| `04` | Boas práticas de programação |
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## ✨ MEUS PROJETOS
-
-### 🌙 Projetos que estou criando
-
-> Aqui você pode colocar seus projetos favoritos conforme for criando.
-
-**→ Projeto 01**
-Pequena descrição do projeto.
-
-**→ Projeto 02**
-Pequena descrição do projeto.
-
-**→ Projeto 03**
-Pequena descrição do projeto.
-
----
-
-## 📊 MEU GITHUB
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=niicdev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niicdev&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Minha atividade
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=niicdev&theme=midnight-purple&hide_border=true" />
+
+</div>
+
+---
+
+## 🚀 Projetos
+
+<div align="center">
+
+<a href="https://github.com/niicdev">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=niicdev&repo=SEU-REPOSITORIO&theme=midnight-purple&hide_border=true" />
+</a>
+
+</div>
+
+> ✨ Aqui você pode colocar seus projetos favoritos conforme for criando.
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+<a href="https://github.com/niicdev">
+<img src="https://img.shields.io/badge/GitHub-niicdev-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="SEU-LINK-DO-INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-@niicdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
@@ -109,11 +108,8 @@ Pequena descrição do projeto.
 
 <div align="center">
 
-### 💜 obrigada por passar por aqui!
+### 💜 `code • create • learn • repeat`
 
-`made with ♡ by Nicolly`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
 
 </div>
-
