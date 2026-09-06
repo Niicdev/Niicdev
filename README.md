@@ -1,115 +1,62 @@
 <div align="center">
 
-# 💜 NICOLLY MACHADO
+<img src="./assets/bonequinha.jpg" width="100%" alt="Nicolly programando">
 
-### `Desenvolvedora em formação • Criatividade • Tecnologia`
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B57AFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Nicolly!+%F0%9F%91%8B;Bem-vindo+ao+meu+GitHub!+%F0%9F%92%9C;Transformando+ideias+em+c%C3%B3digo+%E2%9C%A8" alt="Typing SVG" />
+<h1>💜 Nicolly Machado</h1>
 
-<br>
+<h3>୨୧ niicdev ୨୧</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+<p>💻 Desenvolvedora em construção • 🎀 Criativa • 🚗 Apaixonada por carros • 🏎️ Fã de Fórmula 1</p>
+
+<a href="https://instagram.com/niccooding">
+<img src="https://img.shields.io/badge/Instagram-@niccooding-9B59B6?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=100&section=header">
 
 </div>
-
----
 
 ## 💜 Sobre mim
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-```js
-const nicolly = {
-    username: "niicdev",
-    name: "Nicolly Machado",
-    role: "Desenvolvedora em formação",
-    currentlyLearning: [
-        "Programação",
-        "Desenvolvimento Web"
-    ],
-    interests: [
-        "Tecnologia",
-        "Carros",
-        "Criatividade"
-    ],
-    goal: "Transformar ideias em projetos incríveis ✨"
-};
-```
-
-💻 Aprendendo programação e criando meus primeiros projetos.
-
-🎨 Gosto de transformar ideias em coisas bonitas e funcionais.
-
-🚀 Sempre tentando aprender algo novo.
-
----
-
-## 🛠️ Tecnologias
+> Oii! Eu sou a **Nicolly** 🎀  
+> Estou aprendendo programação e amo criar coisas novas.
+>
+> 💻 Programação  
+> 🎨 Criatividade  
+> 🚗 Carros  
+> 🏎️ Fórmula 1  
+> ✨ Aprendendo sempre mais
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
+## 💻 Tecnologias
 
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode">
 
----
+<br><br>
 
-## 📊 GitHub Stats
+## 🎀 GitHub
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=niicdev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0615&title_color=C77DFF&icon_color=C77DFF&text_color=FFFFFF">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=niicdev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+<br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niicdev&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niicdev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0615&title_color=C77DFF&text_color=FFFFFF">
 
-</div>
+<br><br>
 
----
+## 🌷 Me encontre
 
-## 🔥 Minha atividade
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=niicdev&theme=midnight-purple&hide_border=true" />
-
-</div>
-
----
-
-## 🚀 Projetos
-
-<div align="center">
-
-<a href="https://github.com/niicdev">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=niicdev&repo=SEU-REPOSITORIO&theme=midnight-purple&hide_border=true" />
+<a href="https://instagram.com/niccooding">
+<img src="https://img.shields.io/badge/@niccooding-9B59B6?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-</div>
+<br><br>
 
-> ✨ Aqui você pode colocar seus projetos favoritos conforme for criando.
-
----
-
-## 🌐 Onde me encontrar
-
-<div align="center">
-
-<a href="https://github.com/niicdev">
-<img src="https://img.shields.io/badge/GitHub-niicdev-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="SEU-LINK-DO-INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-@niicdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 `code • create • learn • repeat`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=120&section=footer">
 
 </div>
