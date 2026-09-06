@@ -7,7 +7,24 @@
 **niicdev** · Product-minded developer
 
 ## About
+## 💙 Sobre mim
 
+Oii! Eu sou a **Nicolly**, também conhecida como **niicdev** 👩🏻‍💻
+
+Sou apaixonada por tecnologia, programação e por aprender coisas novas.
+
+🚀 Explorando o mundo do desenvolvimento e criando meus primeiros projetos.  
+💻 Gosto de transformar ideias em código e deixar tudo com a minha cara.  
+🚗 Também sou apaixonada por carros e Fórmula 1.  
+📚 Sempre aprendendo algo novo e evoluindo a cada projeto.
+
+✨ *“Transformando ideias em código, um projeto de cada vez.”*
+
+### 💻 Tecnologias
+`HTML` `CSS` `JavaScript` `Python`
+
+### 🌷 Onde me encontrar
+📷 Instagram: **[@niccooding](https://instagram.com/niccooding)**
 Building useful things and learning in public.
 
 - 👥 **1** followers · **1** following
