@@ -13,10 +13,7 @@ Olá! Eu sou a **Nicolly Machado**.
 Sou estudante e estou desenvolvendo meus conhecimentos na área de **tecnologia e programação**.  
 Tenho interesse em desenvolvimento de software e gosto de aprender, criar projetos e transformar ideias em soluções através do código.
 
-🚀 Buscando constantemente evoluir minhas habilidades e adquirir novos conhecimentos.
-
-### 💻 Tecnologias
-`HTML` `CSS` `JavaScript` `Python`
+🚀 Buscando constantemente evoluir minhas habilidades e adquirir novos conhecimentos
 
 ### 📫 Contato
 📷 Instagram: **[@niccoding](https://instagram.com/niccooding)**
