@@ -2,12 +2,11 @@
 
 <p align="center"> 
 <p align="center"> <img src="https://www.gitskins.com/api/section/hero?username=niicdev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F317420921%3Fu%3Dbbf14bffb96af5dc9292f5081c72b28427c74e41%26v%3D4" alt="nicolly hero visual" />
-</p> />
+</p> 
 </p>
+DESENVOLVEDORA
 
-**niicdev** · developer
-
-## 💙 Sobre mim
+##  Sobre mim
 
 Olá! Eu sou a **Nicolly Machado**.
 
