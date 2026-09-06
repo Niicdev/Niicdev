@@ -1,83 +1,37 @@
-<div align="center">
+## Profile snapshot
 
-<br>
-
-<img src="./assets/bonequinha.jpg" width="420px">
-
-<br><br>
-
-# 💜 NICOLLY MACHADO
-
-### `niicdev`
-
-<p>
-  <i>transformando ideias em código ✦</i>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=niicdev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F317420921%3Fu%3Dbbf14bffb96af5dc9292f5081c72b28427c74e41%26v%3D4" alt="niicdev hero visual" />
 </p>
 
-<br>
+**niicdev** · Product-minded developer
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header">
+## About
 
-<br>
+Building useful things and learning in public.
+
+- 👥 **1** followers · **1** following
+
+## Proof at a glance
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-## ✦ sobre mim
-
-Olá! Eu sou a **Nicolly** 💜
-
-Sou uma garota apaixonada por tecnologia, criatividade e por aprender coisas novas.
-
-Atualmente estou estudando programação e construindo meu caminho como desenvolvedora.
-
-<br>
-
-`💻 coding`  
-`🎨 creativity`  
-`🚗 cars`  
-`🏎️ formula 1`
-
-</td>
-
-<td width="50%" valign="top">
-
-## ✦ atualmente
-
-🌱 Aprendendo programação
-
-💻 Criando meus primeiros projetos
-
-📚 Estudando novas tecnologias
-
-✨ Evoluindo um pouco todos os dias
-
-<br>
-
-**my goal:**  
-> criar coisas que tenham a minha cara.
-
-</td>
-</tr>
+<tr><td align="center"><b>1</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>11</b><br/><sub>contributions</sub></td></tr>
 </table>
 
-<br>
+## Core toolkit
 
-## ✦ tecnologias
+No public language data yet — building the first project in the open.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark">
+## Selected work
 
-<br><br>
+- **[Niicdev](https://github.com/Niicdev/Niicdev)** — Featured public work · ⭐ 0
 
-## ✦ vamos conversar?
+## Let’s connect
 
-<a href="https://instagram.com/niccooding">
-<img src="https://img.shields.io/badge/Instagram-@niccooding-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=niicdev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F317420921%3Fu%3Dbbf14bffb96af5dc9292f5081c72b28427c74e41%26v%3D4" alt="niicdev social visual" />
+</p>
 
-<br><br>
+<a href="https://github.com/niicdev">GitHub</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer">
-
-</div>
+<p align="center"><sub>niicdev · Recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
