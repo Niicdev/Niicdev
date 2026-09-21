@@ -9,9 +9,7 @@ Tenho interesse em desenvolvimento de software e gosto de aprender, criar projet
 
 🚀 Buscando constantemente evoluir minhas habilidades e adquirir novos conhecimentos
 ### Conecte-se comigo
-[![Instagram](https://img.shields.io/badge/-Instagram-C9A0DC?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nicollyccristine_)
-### 📫 Contato
-📷 Instagram: **[@niccoding](https://instagram.com/niccooding)**
+[![Instagram](https://img.shields.io/badge/-Instagram-C9A0DC?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/niccoding)
 Building useful things and learning in public.
 
 - 👥 **1** followers · **1** following
