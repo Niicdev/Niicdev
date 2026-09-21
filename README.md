@@ -1,5 +1,4 @@
 ## 
-![Header](https://capsule-render.com/api?type=waving&color=0:FFB6C1,50:E6A8D7,100:C9A0DC&height=200&section=header&text=Bem-vindo(a)%20ao%20meu%20perfil&fontSize=35&fontColor=ffffff)
 
 - 💻 Desenvolvimento de apps mobile com **React Native** e **Expo**
 - 📚 Estudo contínuo de integração com APIs, gerenciamento de estado e arquitetura de software
