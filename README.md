@@ -1,6 +1,5 @@
 ## 
-DESENVOLVEDORA
-![Banner](./assets/banner.png)
+![Banner](./1.png)
 ##  Sobre mim
 
 Olá! Eu sou a **Nicolly Machado**.
