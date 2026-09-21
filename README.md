@@ -8,6 +8,8 @@ Sou estudante e estou desenvolvendo meus conhecimentos na área de **tecnologia 
 Tenho interesse em desenvolvimento de software e gosto de aprender, criar projetos e transformar ideias em soluções através do código.
 
 🚀 Buscando constantemente evoluir minhas habilidades e adquirir novos conhecimentos
+### Conecte-se comigo
+[![Instagram](https://img.shields.io/badge/-Instagram-C9A0DC?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/nicollyccristine_)
 
 ### 📫 Contato
 📷 Instagram: **[@niccoding](https://instagram.com/niccooding)**
