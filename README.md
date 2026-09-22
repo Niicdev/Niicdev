@@ -67,12 +67,7 @@ No public language data yet — building the first project in the open.
 
 <table>
 <tr>
-<td width="60%" valign="top">
-
-<p align="center">
-Sou uma desenvolvedora em formação, apaixonada por tecnologia,
-programação e criatividade.
-</p>
+<td width="60%
 
 <p align="center">
 Atualmente, estou explorando <b>Python, Java, Inteligência Artificial
@@ -275,47 +270,6 @@ STATUS: IN PROGRESS ████████████████████
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- ===================== SNAKE ANIMATION ===================== -->
-## `> render_contribution_graph.exe`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</div>
-
-> ⚙️ Para ativar essa animação, configure o **GitHub Action** oficial [`platane/snk`](https://github.com/Platane/snk) no seu repositório de perfil — ela gera o SVG automaticamente a cada execução.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<!-- ===================== REDES SOCIAIS ===================== -->
-## `> connect --network`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff2)](https://linkedin.com/in/SEU-USUARIO)
-[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00fff2)](https://instagram.com/SEU-USUARIO)
-[![Twitter/X](https://img.shields.io/badge/-Twitter%20X-0d1117?style=for-the-badge&logo=x&logoColor=00fff2)](https://x.com/SEU-USUARIO)
-[![Discord](https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00fff2)](https://discord.com/users/SEU-USUARIO)
-[![Gmail](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00fff2)](mailto:seuemail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfólio-0d1117?style=for-the-badge&logo=vercel&logoColor=00fff2)](https://seuportfolio.com)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<!-- ===================== RODAPÉ ===================== -->
-<div align="center">
-
-```bash
-root@dev-core:~$ echo "Obrigado pela visita, unidade humana."
-root@dev-core:~$ shutdown -r "Até a próxima sessão" 
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=00FFF2&center=true&vCenter=true&width=500&lines=Feito+com+%F0%9F%96%A4+e+muitas+x%C3%ADcaras+de+caf%C3%A9." alt="footer typing"/>
-
-![Visitor Badge](https://img.shields.io/badge/dynamic/json?color=00fff2&label=CORE+STATUS&query=%24.status&url=https%3A%2F%2Fapi.github.com&style=for-the-badge&labelColor=0d1117)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-</div>
 
 
 <p align="center"><sub>niicdev · Recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
