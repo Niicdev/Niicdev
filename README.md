@@ -57,11 +57,11 @@ No public language data yet — building the first project in the open.
 
 - **[Niicdev](https://github.com/Niicdev/Niicdev)** — Featured public work · ⭐ 0
 
-## Let’s connect
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=niicdev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F317420921%3Fu%3Dbbf14bffb96af5dc9292f5081c72b28427c74e41%26v%3D4" alt="niicdev social visual" />
-</p>
+<div align="center">
+  <a href="https://www.instagram.com/niccoding/">
+    <img src="https://img.shields.io/badge/Instagram-@niccoding-0D1117?style=for-the-badge&logo=instagram&logoColor=00BFFF" alt="Instagram"/>
+  </a>
+</div>
 
 <a href="https://github.com/niicdev">GitHub</a>
 class Nicolly:
