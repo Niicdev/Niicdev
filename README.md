@@ -1,13 +1,37 @@
-## 
-![Banner](./1.png)
-##  Sobre mim
+name: Generate Snake
 
-Olá! Eu sou a **Nicolly Machado**.
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # roda automaticamente a cada 6 horas
+  workflow_dispatch:         # permite rodar manualmente pelo botão "Run workflow"
+  push:
+    branches:
+      - main
 
-Sou estudante e estou desenvolvendo meus conhecimentos na área de **tecnologia e programação**.  
-Tenho interesse em desenvolvimento de software e gosto de aprender, criar projetos e transformar ideias em soluções através do código.
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
 
-🚀 Buscando constantemente evoluir minhas habilidades e adquirir novos conhecimentos
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ### Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/-Instagram-C9A0DC?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/niccoding)
 Building useful things and learning in public.
