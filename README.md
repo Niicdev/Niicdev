@@ -26,21 +26,21 @@
 │  CREATIVITY    : 100%                                        │
 │  SYSTEM        : READY                                       │
 └──────────────────────────────────────────────────────────────┘
-      
-# `11  ·  LET'S CONNECT`
+      ## `11 · REDES SOCIAIS`
 
 <div align="center">
 
-<a href="https://github.com/niicdev">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF"/>
+<a href="https://www.instagram.com/niccoding/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-@niccoding-0D1117?style=for-the-badge&logo=instagram&logoColor=00BFFF"/>
 </a>
 
-<a href="https://instagram.com/niccoding">
-<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00BFFF"/>
+<br><br>
+
+<a href="https://github.com/niicdev">
+<img src="https://img.shields.io/badge/GitHub-niicdev-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF"/>
 </a>
 
 </div>
-
 - 👥 **1** followers · **1** following
 
 ## Proof at a glance
