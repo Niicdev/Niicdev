@@ -26,8 +26,6 @@
 │  CREATIVITY    : 100%                                        │
 │  SYSTEM        : READY                                       │
 └──────────────────────────────────────────────────────────────┘
-      ## `11 · REDES SOCIAIS`
-[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00fff2)](https://instagram.com/niccoding)
 - 👥 **1** followers · **1** following
 
 ## Proof at a glance
