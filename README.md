@@ -206,69 +206,6 @@ STATUS: IN PROGRESS ████████████████████
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- ===================== PROJETOS ===================== -->
-## `> ls -la ./projetos`
-
-<table width="100%">
-<tr>
-<td width="50%">
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-PROJETO-1&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=00fff2"/>
-</a>
-</td>
-<td width="50%">
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-PROJETO-2&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=00fff2"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-PROJETO-3&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=00fff2"/>
-</a>
-</td>
-<td width="50%">
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-PROJETO-4&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=00fff2"/>
-</a>
-</td>
-</tr>
-</table>
-
-> 💡 Substitua `SEU-USUARIO` e `NOME-DO-PROJETO-X` pelos seus repositórios reais.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<!-- ===================== GITHUB STATS ===================== -->
-## `> system.stats() -> render()`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dark&hide_border=true&background=0D1117&stroke=00fff2&ring=00fff2&fire=39ff14&currStreakLabel=00fff2"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=react-dark&hide_border=true&bg_color=0d1117&color=00fff2&line=39ff14&point=ffffff&area=true&area_color=00fff2"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<!-- ===================== TROPHIES ===================== -->
-## `> unlock --achievements`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
 <!-- ===================== SNAKE ANIMATION ===================== -->
 
 
