@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0A3D62,100:00BFFF&height=230&section=header&text=NICOLLY&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER&descColor=00BFFF&descAlignY=74&fontFamily=JetBrains%20Mono" alt="NICOLLY banner">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0A3D62,100:00BFFF&height=230&section=header&text=NICOLLY&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%7C%20CREATIVE%20TECH&descAlignY=60&descSize=18&animation=fadeIn" alt="NICOLLY banner">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=00BFFF&center=true&vCenter=true&width=750&lines=INITIALIZING+NICOLLY.DEV...;SYSTEM+ONLINE...;BUILDING+SOFTWARE+WITH+PASSION...;CREATIVITY+%2B+TECHNOLOGY" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=00BFFF&center=true&vCenter=true&width=750&lines=INITIALIZING+NICOLLY.DEV...;SYSTEM+ONLINE;AI+MODULE+RUNNING;CREATIVITY+100%25" alt="Typing animation">
 
 <br><br>
 
@@ -46,16 +46,34 @@
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" alt="HTML5">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" alt="CSS3">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" alt="JavaScript">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" alt="Java">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" alt="Python">
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" alt="Figma">
+### Tecnologias
+
+<a href="https://www.python.org/" title="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.java.com/" title="Java">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://openai.com/" title="Inteligência Artificial">
+  <img src="https://cdn.simpleicons.org/openai/00BFFF" width="50" alt="Inteligência Artificial">
+</a>
+
+<br>
+
+<sub>Python&nbsp;&nbsp;&nbsp;&nbsp; Java&nbsp;&nbsp;&nbsp;&nbsp; HTML5&nbsp;&nbsp;&nbsp;&nbsp; CSS3&nbsp;&nbsp;&nbsp;&nbsp; JavaScript&nbsp;&nbsp;&nbsp;&nbsp; Inteligência Artificial</sub>
 
 </div>
