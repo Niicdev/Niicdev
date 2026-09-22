@@ -14,7 +14,7 @@
 
 ---
 
-# Olá, eu sou a Nicolly Cristine 👋
+# Oii, eu sou a Nicolly Cristine 👋
 <h3 align="center">Tecnologias</h3>
 
 <p align="center">
