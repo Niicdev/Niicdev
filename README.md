@@ -15,7 +15,15 @@
 ---
 
 # Olá, eu sou a Nicolly Cristine 👋
+<h3 align="center">Tecnologias</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+</p>
 📍 São Paulo, Brasil
 
 <div align="center">
@@ -32,23 +40,3 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-👥 **1** followers · **1** following
-
-<br>
-
-<a href="https://github.com/niicdev">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=niicdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/niicdev">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niicdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages">
-</a>
-
-<br><br>
-
-
-    <td align="center"><a href="https://openai.com/" title="Inteligência Artificial"><img src="https://cdn.simpleicons.org/openai/00BFFF" width="50" alt="Inteligência Artificial"><br><sub>IA</sub></a></td>
-  </tr>
-</table>
-
-</div>
