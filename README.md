@@ -62,17 +62,55 @@ class Nicolly:
         self.role = "Developer"
         self.location = "Brazil"
 
-    def about(self):
-        return """
-        Sou uma desenvolvedora em formação,
-        apaixonada por tecnologia, programação,
-        inteligência artificial e design.
+    ## `01 · SOBRE MIM`
 
-        Gosto de aprender coisas novas,
-        criar projetos e transformar ideias
-        em experiências digitais.
-        """
+<div align="center">
 
+<table>
+<tr>
+<td width="850">
+
+<h2 align="center">Olá, eu sou a Nicolly! 👋</h2>
+
+<p align="center">
+<b>Desenvolvedora em formação • Criativa • Apaixonada por tecnologia</b>
+</p>
+
+<br>
+
+<p align="center">
+Sou uma desenvolvedora em formação, apaixonada por tecnologia,
+programação e criatividade.
+</p>
+
+<p align="center">
+Atualmente, estou explorando <b>Python, Java, Inteligência Artificial
+e Design</b>, sempre buscando aprender algo novo e transformar
+ideias em projetos reais.
+</p>
+
+<p align="center">
+Gosto de criar, experimentar e descobrir novas formas de usar
+a tecnologia para transformar ideias em algo único.
+</p>
+
+<br>
+
+<div align="center">
+
+`PYTHON` &nbsp;•&nbsp; `JAVA` &nbsp;•&nbsp; `AI` &nbsp;•&nbsp; `DESIGN` &nbsp;•&nbsp; `DEVELOPMENT`
+
+<br><br>
+
+<b>Aprendendo hoje. Criando amanhã. Evoluindo sempre.</b>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
     def interests(self):
         return [
             "Programming",
