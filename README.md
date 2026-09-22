@@ -42,37 +42,32 @@ No public language data yet — building the first project in the open.
 ## Selected work
 
 - **[Niicdev](https://github.com/Niicdev/Niicdev)** — Featured public work · ⭐ 0
-
 <div align="center">
-  <a href="https://www.instagram.com/niccoding/">
-    <img src="https://img.shields.io/badge/Instagram-@niccoding-0D1117?style=for-the-badge&logo=instagram&logoColor=00BFFF" alt="Instagram"/>
-  </a>
+
+<!-- ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=70&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=Initializing%20Developer%20Core...&descAlignY=58&descAlign=50" width="100%"/>
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=650&lines=Booting+Neural+Interface...;Full-Stack+%7C+AI+Systems+%7C+Mobile+Dev;Compiling+Ideas+into+Code...;Welcome+to+my+Terminal." alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO&color=00fff2&style=for-the-badge&label=UNIT+SCANS)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0d1117)
+![Build](https://img.shields.io/badge/BUILD-PASSING-39ff14?style=for-the-badge&labelColor=0d1117)
+
 </div>
 
-<a href="https://github.com/niicdev">GitHub</a>
-class Nicolly:
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-    def __init__(self):
-        self.name = "Nicolly"
-        self.username = "niicdev"
-        self.role = "Developer"
-        self.location = "Brazil"
-
-    ## `01 · SOBRE MIM`
-
-<div align="center">
+<!-- ===================== SOBRE MIM ===================== -->
+## `> whoami`
 
 <table>
 <tr>
-<td width="850">
-
-<h2 align="center">Olá, eu sou a Nicolly! 👋</h2>
-
-<p align="center">
-<b>Desenvolvedora em formação • Criativa • Apaixonada por tecnologia</b>
-</p>
-
-<br>
+<td width="60%" valign="top">
 
 <p align="center">
 Sou uma desenvolvedora em formação, apaixonada por tecnologia,
@@ -102,11 +97,8 @@ a tecnologia para transformar ideias em algo único.
 
 </div>
 
-</td>
-</tr>
-</table>
-
-</div>
+```python
+class Nicolly:
     def interests(self):
         return [
             "Programming",
@@ -127,15 +119,21 @@ a tecnologia para transformar ideias em algo único.
 
     def goal(self):
         return "Turn ideas into technology."
-PROJECT DATABASE
+```
 
-[01] Artificial Intelligence
-[02] Automation
-[03] Creative Development
-[04] Web Projects
-[05] Experimental Ideas
+</td>
+<td width="40%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px"/>
+</td>
+</tr>
+</table>
 
-STATUS: PROJECTS IN DEVELOPMENT
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ===================== TERMINAL DE OBJETIVOS ===================== -->
+## `> ./objetivos_atuais.sh`
+
+```
 ┌──(nicolly㉿dev)-[~/projects]
 └─$ cat current_objectives.txt
 
@@ -148,11 +146,176 @@ STATUS: PROJECTS IN DEVELOPMENT
 [+] Learn something new every day
 
 STATUS: IN PROGRESS ████████████████████░ 95%
+```
+
+```
 ╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║              BUILD. CREATE. LEARN. REPEAT.              ║
-║                                                          ║
+║                                                            ║
+║              BUILD. CREATE. LEARN. REPEAT.                ║
+║                                                            ║
 ╚══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ===================== TECH STACK ===================== -->
+## `> tech_stack --list`
+
+<div align="center">
+
+### Linguagens
+![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=00fff2)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00fff2)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00fff2)
+![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00fff2)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=00fff2)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=00fff2)
+![React Native](https://img.shields.io/badge/-React%20Native-0d1117?style=for-the-badge&logo=react&logoColor=00fff2)
+![Flutter](https://img.shields.io/badge/-Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=00fff2)
+![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00fff2)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00fff2)
+
+### Backend & IA
+![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00fff2)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00fff2)
+![OpenAI](https://img.shields.io/badge/-OpenAI%20API-0d1117?style=for-the-badge&logo=openai&logoColor=00fff2)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00fff2)
+
+### Banco de Dados & Infra
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00fff2)
+![Firebase](https://img.shields.io/badge/-Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=00fff2)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00fff2)
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00fff2)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ===================== FERRAMENTAS ===================== -->
+## `> tools --active`
+
+<div align="center">
+
+![VSCode](https://img.shields.io/badge/-VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00fff2)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=00fff2)
+![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00fff2)
+![Figma](https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=figma&logoColor=00fff2)
+![Postman](https://img.shields.io/badge/-Postman-0d1117?style=for-the-badge&logo=postman&logoColor=00fff2)
+![Linux](https://img.shields.io/badge/-Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00fff2)
+![Vercel](https://img.shields.io/badge/-Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=00fff2)
+![Notion](https://img.shields.io/badge/-Notion-0d1117?style=for-the-badge&logo=notion&logoColor=00fff2)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ===================== PROJETOS ===================== -->
+## `> ls -la ./projetos`
+
+<table width="100%">
+<tr>
+<td width="50%">
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-PROJETO-1&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=00fff2"/>
+</a>
+</td>
+<td width="50%">
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-PROJETO-2&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=00fff2"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-PROJETO-3&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=00fff2"/>
+</a>
+</td>
+<td width="50%">
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-PROJETO-4&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=00fff2"/>
+</a>
+</td>
+</tr>
+</table>
+
+> 💡 Substitua `SEU-USUARIO` e `NOME-DO-PROJETO-X` pelos seus repositórios reais.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ===================== GITHUB STATS ===================== -->
+## `> system.stats() -> render()`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&langs_count=8"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dark&hide_border=true&background=0D1117&stroke=00fff2&ring=00fff2&fire=39ff14&currStreakLabel=00fff2"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=react-dark&hide_border=true&bg_color=0d1117&color=00fff2&line=39ff14&point=ffffff&area=true&area_color=00fff2"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ===================== TROPHIES ===================== -->
+## `> unlock --achievements`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ===================== SNAKE ANIMATION ===================== -->
+## `> render_contribution_graph.exe`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+
+> ⚙️ Para ativar essa animação, configure o **GitHub Action** oficial [`platane/snk`](https://github.com/Platane/snk) no seu repositório de perfil — ela gera o SVG automaticamente a cada execução.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ===================== REDES SOCIAIS ===================== -->
+## `> connect --network`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00fff2)](https://linkedin.com/in/SEU-USUARIO)
+[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00fff2)](https://instagram.com/SEU-USUARIO)
+[![Twitter/X](https://img.shields.io/badge/-Twitter%20X-0d1117?style=for-the-badge&logo=x&logoColor=00fff2)](https://x.com/SEU-USUARIO)
+[![Discord](https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00fff2)](https://discord.com/users/SEU-USUARIO)
+[![Gmail](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00fff2)](mailto:seuemail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfólio-0d1117?style=for-the-badge&logo=vercel&logoColor=00fff2)](https://seuportfolio.com)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ===================== RODAPÉ ===================== -->
+<div align="center">
+
+```bash
+root@dev-core:~$ echo "Obrigado pela visita, unidade humana."
+root@dev-core:~$ shutdown -r "Até a próxima sessão" 
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=00FFF2&center=true&vCenter=true&width=500&lines=Feito+com+%F0%9F%96%A4+e+muitas+x%C3%ADcaras+de+caf%C3%A9." alt="footer typing"/>
+
+![Visitor Badge](https://img.shields.io/badge/dynamic/json?color=00fff2&label=CORE+STATUS&query=%24.status&url=https%3A%2F%2Fapi.github.com&style=for-the-badge&labelColor=0d1117)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
 
 
 <p align="center"><sub>niicdev · Recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
