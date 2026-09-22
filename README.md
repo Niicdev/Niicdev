@@ -46,15 +46,7 @@
 
 <br><br>
 
-### Tecnologias
 
-<table>
-  <tr>
-    <td align="center"><a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"><br><sub>Python</sub></a></td>
-    <td align="center"><a href="https://www.java.com/" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"><br><sub>Java</sub></a></td>
-    <td align="center"><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"><br><sub>HTML5</sub></a></td>
-    <td align="center"><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"><br><sub>CSS3</sub></a></td>
-    <td align="center"><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"><br><sub>JavaScript</sub></a></td>
     <td align="center"><a href="https://openai.com/" title="Inteligência Artificial"><img src="https://cdn.simpleicons.org/openai/00BFFF" width="50" alt="Inteligência Artificial"><br><sub>IA</sub></a></td>
   </tr>
 </table>
