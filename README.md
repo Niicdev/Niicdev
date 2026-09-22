@@ -29,17 +29,10 @@
       ## `11 · REDES SOCIAIS`
 
 <div align="center">
-
-<a href="https://www.instagram.com/niccoding/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-@niccoding-0D1117?style=for-the-badge&logo=instagram&logoColor=00BFFF"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/niicdev">
-<img src="https://img.shields.io/badge/GitHub-niicdev-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF"/>
-</a>
-
+  <a href=https://www.instagram.com/niccoding/>
+    <img src=https://img.shields.io/badge/Instagram-@niccoding-0D1117?style=for-the-badge&logo=instagram&logoColor=00BFFF alt="Instagram"/>
+  </a>
+</div>
 </div>
 - 👥 **1** followers · **1** following
 
@@ -48,6 +41,7 @@
 <table>
 <tr><td align="center"><b>1</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>11</b><br/><sub>contributions</sub></td></tr>
 </table>
+
 
 ## Core toolkit
 
